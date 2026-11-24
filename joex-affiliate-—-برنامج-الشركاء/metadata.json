@@ -1,0 +1,6 @@
+{
+  "name": "JoeX Affiliate — برنامج الشركاء",
+  "description": "روّج لبوت JoeX بلينكك الخاص واحصل على عمولة متكررة على كل اشتراك مدفوع وتجديد، مع تتبّع لحظي وتحويلات أسبوعية على Binance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
